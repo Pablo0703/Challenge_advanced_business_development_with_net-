@@ -2,8 +2,14 @@
 
 ## Grupo
 
-* Nome completo dos integrantes do grupo
-* RA de cada integrante
+* Nome: Diego Santos Cardoso
+* RM: 558711
+
+* Nome: Pablo Lopes Doria de Andrade
+* RM: 556834
+
+* Nome: Vinicius Leopoldino de Oliveira
+* RM: 557047
 
 ---
 
